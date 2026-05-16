@@ -25,24 +25,32 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ## Tools & Technologies
 
-**Cloud:** AWS Organizations, AWS IAM, AWS ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, WAF, CloudFormation, GCP
+**Cloud:** AWS Organizations, AWS IAM, AWS ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, GCP
 
-**Infrastructure as Code:** Terraform, Helm, AWS CloudFormation
+**Containers & Orchestration:** Kubernetes, Docker, ECS, EKS, Helm Charts
 
-**Containers & Orchestration:** Kubernetes, Docker, ECS, Helm Charts
+**Infrastructure as Code:** Terraform, AWS CloudFormation, Helm
 
-**CI/CD:** GitHub Actions, GitLab CI, Jenkins, ArgoCD
+**CI/CD & GitOps:** GitHub Actions, GitHub Copilot, GitLab CI, ArgoCD, GitHub Repository Management
 
 **Observability:** Datadog, Prometheus, Grafana, New Relic, OpenTelemetry, Loki, PagerDuty, CloudWatch
 
-**Security:** AWS WAF, IAM, Okta, DevSecOps, SOC 2, SCPs, Security Governance
+**Security:** AWS WAF, IAM, Okta, Auth0, DevSecOps, SOC 2, SCPs, Security Governance, Fraud Monitoring, Auto-blocklist
 
-**Messaging:** AWS SNS, AWS SQS
+**Databases:** AWS RDS, DynamoDB, Athena, Glue
 
-**Databases:** AWS DynamoDB, RDS
+**Data Lake:** Bronze/Silver ingestion architecture, Apache Superset, Data transformation pipelines
+
+**Messaging & Events:** AWS SNS, AWS SQS, MSK, EventBridge, Banking Events, External Events
+
+**APIs & Networking:** API Gateway, CloudFront, ALB/ELB, Route 53, VPC Peering, Client VPN, Nginx
+
+**Integrations:** Salesforce, Slack, Auth0, Google Workspace
+
+**AI & Automation:** Fraud Investigation Bot, KPI Reporter, GitHub Copilot Skills, Python automation
 
 **Blockchain:** Ethereum/Geth, Hyperledger Besu, Tokenization, Digital Assets
 
-**Programming:** Python, Shell Script, TypeScript, Go Templates, Git
+**Programming:** Python, TypeScript/JavaScript, Shell Script, Go Templates, Dockerfile
 
-**Methodologies:** Agile, Scrum, Kanban, OKRs, SRE, Incident Management, GitOps
+**Methodologies:** Agile, Scrum, Kanban, OKRs, SRE, Incident Management, GitOps, Event-Driven Architecture
