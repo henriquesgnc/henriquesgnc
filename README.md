@@ -4,7 +4,7 @@ Engineering leader focused on platform engineering, cloud infrastructure, and de
 
 15+ years building cloud platforms, internal developer portals, and multi-account AWS foundations. Based in Brazil.
 
-[LinkedIn](https://www.linkedin.com/in/henriquesgnc/) · [X](https://twitter.com/henriquesgnc)
+[about.me/henriquesgnc](https://about.me/henriquesgnc)
 
 ---
 
