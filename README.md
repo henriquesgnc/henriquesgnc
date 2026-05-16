@@ -2,56 +2,60 @@
 
 # Henrique Sloty Goncalves
 
-**Head of Engineering, Platform & Security** — [VrdeBank](https://www.linkedin.com/company/vrdebank)
+**Engineering Leader | Platform & Cloud Infrastructure | DevEx**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesgnc/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/henriquesgnc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquesgnc)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique@sloty.dev)
 
 </div>
 
-## About
+---
 
-Engineering Leader with **15+ years** designing and operating **cloud platforms**, **internal developer portals**, and **multi-account AWS foundations** for financial services. Based in Brazil.
+## What I Do
 
-> I build platforms that make engineering teams **faster**, **safer**, and more **autonomous** — bridging the gap between infrastructure, security, and developer experience.
+I design and operate **cloud platforms**, **internal developer portals**, and **multi-account AWS foundations** that make engineering teams **faster**, **safer**, and more **autonomous**.
 
-### Currently
+**15+ years** turning infrastructure into a competitive advantage — bridging the gap between platform engineering, security, and developer experience.
 
-- Leading platform engineering at **VrdeBank**
-- Contributing to open-source tools for **AWS Organizations**, **Backstage (IDP)**, and **developer experience**
+> *"I do not just build infrastructure. I build the platform that lets teams ship better software, faster."*
+
+---
+
+## Core Expertise
+
+```
+┌─────────────────────┐  ┌─────────────────────┐  ┌─────────────────────┐
+│  PLATFORM ENGINEERING│  │  CLOUD FOUNDATIONS  │  │  SECURITY & COMPLIANCE│
+├─────────────────────┤  ├─────────────────────┤  ├─────────────────────┤
+│ • Internal Developer │  │ • Multi-Account AWS │  │ • SCP Guardrails    │
+│   Portals (Backstage)│  │   Organizations     │  │ • IAM Identity Center│
+│ • Golden Paths       │  │ • Landing Zones     │  │ • OIDC Federation   │
+│ • Self-Service Infra │  │ • Terraform Baselines│  │ • Least Privilege   │
+│ • CI/CD Pipelines    │  │ • VPC Networking    │  │ • Compliance as Code│
+│ • Software Templates │  │ • Cost Optimization │  │ • Security Automation│
+└─────────────────────┘  └─────────────────────┘  └─────────────────────┘
+```
 
 ---
 
 ## Tech Stack
 
-**Cloud & Infrastructure:**
+**Cloud & Infrastructure**
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 
-**Platform & Developer Experience:**
+**Platform & Developer Experience**
+
 ![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat&logo=backstage&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-**Security & Compliance:**
-![IAM](https://img.shields.io/badge/IAM_Identity_Center-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![OIDC](https://img.shields.io/badge/OIDC_Federation-4285F4?style=flat&logo=openid&logoColor=white)
-![SCP](https://img.shields.io/badge/SCP_Guardrails-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
----
-
-## Focus Areas
-
-| Area | Description |
-|------|-------------|
-| **Platform Engineering** | Internal developer portals and self-service platforms that reduce cognitive load and accelerate delivery |
-| **Cloud Foundations** | Secure, multi-account AWS landing zones with Terraform |
-| **Developer Experience** | Software templates, CI/CD pipelines, and golden paths with Backstage and GitHub Actions |
-| **Security & Compliance** | SCP guardrails, OIDC federation, identity management, and least-privilege access patterns |
-| **Team Leadership** | Platform and infrastructure team management in fintech environments |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
@@ -59,21 +63,58 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 
 ### Platform & Infrastructure
 
-| Project | Stars | Description |
-|---------|:-----:|-------------|
-| **[Terraform AWS Organization Foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation)** | — | Production-ready Terraform blueprint for AWS Organizations: multi-account landing zones, SCP guardrails, IAM Identity Center, GitHub OIDC, and VPC networking baseline |
-| **[Backstage Blueprint](https://github.com/henriquesgnc/backstage-blueprint)** | — | Internal Developer Portal blueprint with 7 production-ready software templates: Kubernetes, Helm, Docker, Lambda, Terraform, and TechDocs |
+<table>
+<tr>
+<td width="50%">
+
+**[Terraform AWS Organization Foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation)**
+
+Production-ready Terraform blueprint for AWS Organizations:
+- Multi-account landing zones
+- SCP guardrails & IAM Identity Center
+- GitHub OIDC federation
+- VPC networking baseline
+
+`#terraform` `#aws` `#organizations`
+
+</td>
+<td width="50%">
+
+**[Backstage Blueprint](https://github.com/henriquesgnc/backstage-blueprint)**
+
+Internal Developer Portal with 7 production-ready templates:
+- Kubernetes, Helm, Docker
+- Lambda, Terraform, TechDocs
+- Golden paths for engineering teams
+
+`#backstage` `#idp` `#developer-experience`
+
+</td>
+</tr>
+</table>
 
 ### Developer Tools
 
-| Project | Stars | Description |
-|---------|:-----:|-------------|
-| **[Google Workspace User Management](https://github.com/henriquesgnc/google-workspace-user-management-apps-script)** | — | User lifecycle automation for Google Workspace via Apps Script and Admin SDK |
-| **[Get GitHub Public Key](https://github.com/henriquesgnc/get-github-pub-key)** | — | Shell script to download and manage SSH public keys from GitHub accounts |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Google Workspace User Management](https://github.com/henriquesgnc/google-workspace-user-management-apps-script)** | User lifecycle automation for Google Workspace via Apps Script | Apps Script, Admin SDK |
+| **[Get GitHub Public Key](https://github.com/henriquesgnc/get-github-pub-key)** | SSH public key management from GitHub accounts | Shell |
 
 ---
 
-## GitHub Stats
+## What I Bring
+
+| Skill | Impact |
+|-------|--------|
+| **Platform Strategy** | Turn infrastructure from cost center into engineering accelerator |
+| **Cloud Architecture** | Design foundations that scale from 5 to 500 engineers |
+| **Security by Design** | Build compliance into the platform, not bolt it on |
+| **Team Leadership** | Build and mentor platform teams that ship |
+| **Open Source** | Contribute to Terraform and Backstage ecosystems |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -83,16 +124,28 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 
 ---
 
-## Speaking & Writing
+## Let us Talk
 
-- **Open Source:** Regular contributor to Terraform and Backstage ecosystems
+I am always interested in discussing:
+
+- **Platform engineering** strategy and implementation
+- **Cloud infrastructure** at scale
+- **Developer experience** and internal tooling
+- **Open source** collaboration
+- **Advisory** roles for platform teams
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesgnc/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique@sloty.dev)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Currently leading platform engineering at VrdeBank. Open to collaborations on cloud infrastructure, platform engineering, and developer experience.*
-
-**[LinkedIn](https://www.linkedin.com/in/henriquesgnc/)** · **[X / Twitter](https://twitter.com/henriquesgnc)**
+*Platform engineer by trade. Infrastructure architect by experience.*
+*Building things that help other engineers build things.*
 
 </div>
