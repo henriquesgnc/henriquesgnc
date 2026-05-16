@@ -1,8 +1,6 @@
 # Henrique Sloty Goncalves
 
-Engineering leader with 15+ years in IT and 8+ years in cloud infrastructure, platform engineering, SRE, and DevOps.
-
-Currently Head of Engineering at VrdeBank, leading the engineering organization and bridging business strategy with technical execution. Previously built platform teams and cloud foundations at N26, Parfin, and Remessa Online.
+Engineering leader with 15+ years in IT and 8+ years in cloud infrastructure, platform engineering, SRE, and DevOps. I build platforms that make engineering teams faster, safer, and more autonomous.
 
 Based in Sao Paulo, Brazil.
 
@@ -17,25 +15,21 @@ Based in Sao Paulo, Brazil.
 
 ---
 
-## Experience
+## What I Do
 
-**Head of Engineering | VrdeBank** — Feb 2026 - Present
-Leading the engineering organization. Defining technical roadmap aligned with business objectives. Collaborating with C-suite and founders on product innovation.
+I design and operate cloud platforms, internal developer portals, and multi-account AWS foundations for financial services. I bridge the gap between infrastructure, security, and developer experience.
 
-**Head of Platform Engineering & Security | VrdeBank** — Aug 2025 - Feb 2026
-Built a self-service Internal Developer Platform. Established DevSecOps culture for a regulated financial institution. Implemented IaC and observability standards ensuring 99.9% availability.
+### My Focus
 
-**Staff SRE | Parfin** — Jan 2024 - Aug 2025
-Led blockchain infrastructure for institutional clients. Managed Ethereum/Geth and Hyperledger Besu node clusters on AWS. Built observability stacks with Datadog, Prometheus, Grafana, OpenTelemetry.
+**Head of Engineering** — Leading engineering organizations, defining technical roadmaps, and aligning business strategy with technical execution. Collaborating with C-suite and founders on product innovation.
 
-**Platform Engineering Manager | N26** — Dec 2021 - Dec 2023
-First platform hire at N26 Brazil. Built cloud infrastructure from scratch. Managed Cloud, Security, Engineering Productivity, and ITOps teams. Achieved 13 deploys/day, 99.7% SLO, 1.2% change failure rate.
+**Platform Engineering** — Building self-service Internal Developer Platforms. Establishing DevSecOps culture. Implementing IaC and observability standards ensuring 99.9% availability.
 
-**SRE Lead | Remessa Online** — Jun 2020 - Apr 2021
-Reduced infrastructure costs by 30%. Led a team of 5 SREs. Implemented on-call processes and infrastructure-as-code culture.
+**SRE & Infrastructure** — Leading blockchain infrastructure for institutional clients. Managing Ethereum/Geth and Hyperledger Besu node clusters on AWS. Building observability stacks with Datadog, Prometheus, Grafana, OpenTelemetry.
 
-**SRE | Cabify** — Apr 2017 - Jun 2019
-Built DevOps solutions, automated deployments. Managed EC2 with Ansible and Terraform. Maintained GitLab on-premises and HashiCorp Nomad workloads.
+**Cloud Foundations** — Building cloud infrastructure from scratch. Managing Cloud, Security, Engineering Productivity, and ITOps teams. Achieving 13 deploys/day, 99.7% SLO, 1.2% change failure rate.
+
+**DevOps & Automation** — Reducing infrastructure costs by 30%. Implementing on-call processes and infrastructure-as-code culture. Building DevOps solutions and automated deployments.
 
 ---
 
@@ -61,16 +55,6 @@ Built DevOps solutions, automated deployments. Managed EC2 with Ansible and Terr
 
 ---
 
-## Certifications
-
-- AWS Cloud Practitioner
-- Advanced High Availability on AWS — Cloud Academy
-- Securing AWS Organizations with SCPs — Cloud Academy
-- AWS WAF, Shield & Firewall Manager — Cloud Academy
-- Cross-Account Access Using IAM — Cloud Academy
-
----
-
 ## Projects
 
 - [terraform-aws-organization-foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation) — Terraform blueprint for AWS Organizations with SCPs, IAM Identity Center, GitHub OIDC, VPC networking
@@ -78,13 +62,3 @@ Built DevOps solutions, automated deployments. Managed EC2 with Ansible and Terr
 - [backstage-blueprint](https://github.com/henriquesgnc/backstage-blueprint) — Internal Developer Portal with software templates for Kubernetes, Helm, Docker, Lambda, Terraform, TechDocs
 
 - [google-workspace-user-management-apps-script](https://github.com/henriquesgnc/google-workspace-user-management-apps-script) — User lifecycle automation for Google Workspace
-
----
-
-## Education
-
-Bachelor of Technology in System Analysis and Development — Impacta Tecnologia, 2025
-
----
-
-Portuguese (Native) | English (Professional Working Proficiency)
