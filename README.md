@@ -25,29 +25,32 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ## Tools & Technologies
 
-**Cloud:** AWS Organizations, AWS IAM, AWS ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, GCP
+**Cloud:** AWS Organizations, IAM, ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, GCP
 
 **Containers & Orchestration:** Kubernetes, Docker, ECS, EKS, Helm Charts
 
 **Infrastructure as Code:** Terraform, AWS CloudFormation, Helm
 
-**CI/CD & GitOps:** GitHub Actions, GitHub Copilot, GitLab CI, ArgoCD, GitHub Repository Management
+**CI/CD & GitOps:** GitHub Actions, GitHub Copilot, GitLab CI, ArgoCD
 
 **Observability:** Datadog, Prometheus, Grafana, New Relic, OpenTelemetry, Loki, PagerDuty, CloudWatch
 
 **Security:** AWS WAF, IAM, Okta, Auth0, DevSecOps, SOC 2, SCPs, Security Governance, Fraud Monitoring, Auto-blocklist
 
-**Databases:** AWS RDS, DynamoDB, Athena, Glue
+**Data & ML/AI:**
 
-**Data Lake:** Bronze/Silver ingestion architecture, Apache Superset, Data transformation pipelines
+- **Data Lake:** Bronze/Silver ingestion architecture, AWS Athena, AWS Glue, Apache Superset
+- **Streaming:** AWS MSK (Kafka), EventBridge, Kinesis
+- **Databases:** RDS, DynamoDB, Athena
+- **AI/LLM:** Fraud Investigation Bot, KPI Reporter (LLM-powered), GitHub Copilot Skills
+- **Data Transformation:** Python, Pandas, Spark
+- **Visualization:** Apache Superset, Grafana, Datadog
 
-**Messaging & Events:** AWS SNS, AWS SQS, MSK, EventBridge, Banking Events, External Events
+**Messaging & Events:** SNS, SQS, MSK, EventBridge, Banking Events, External Events
 
 **APIs & Networking:** API Gateway, CloudFront, ALB/ELB, Route 53, VPC Peering, Client VPN, Nginx
 
 **Integrations:** Salesforce, Slack, Auth0, Google Workspace
-
-**AI & Automation:** Fraud Investigation Bot, KPI Reporter, GitHub Copilot Skills, Python automation
 
 **Blockchain:** Ethereum/Geth, Hyperledger Besu, Tokenization, Digital Assets
 
