@@ -1,6 +1,6 @@
 ## Henrique Sloty Goncalves
 
-**Technical Head of Platform Engineering** — [VrdeBank](https://www.linkedin.com/company/vrdebank)
+**Head of Engineering, Platform & Security** — [VrdeBank](https://www.linkedin.com/company/vrdebank)
 
 [LinkedIn](https://www.linkedin.com/in/henriquesgnc/) &nbsp;·&nbsp; [X](https://twitter.com/henriquesgnc)
 
