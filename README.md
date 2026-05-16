@@ -15,17 +15,9 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ## Projects
 
-**Platform & Infrastructure**
-
 - [terraform-aws-organization-foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation) — Terraform blueprint for AWS Organizations with SCPs, IAM Identity Center, GitHub OIDC, and VPC networking baseline
 
 - [backstage-blueprint](https://github.com/henriquesgnc/backstage-blueprint) — Internal Developer Portal with software templates for Kubernetes, Helm, Docker, Lambda, Terraform, and TechDocs
-
-- [platform-infrastructure](https://github.com/vrdebank/platform-infrastructure) — Infrastructure provisioning and management using Terraform
-
-- [skeleton-chart](https://github.com/vrdebank/skeleton-chart) — Helm Chart base for standardizing application deployments across the organization
-
-**Developer Tools**
 
 - [google-workspace-user-management-apps-script](https://github.com/henriquesgnc/google-workspace-user-management-apps-script) — User lifecycle automation for Google Workspace
 
@@ -33,20 +25,24 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ## Tools & Technologies
 
-**Cloud:** AWS (EKS, ECS, Lambda, IAM, VPC, S3, CloudFront, CloudWatch, RDS, MSK, WAF, CloudFormation), GCP
+**Cloud:** AWS Organizations, AWS IAM, AWS ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, WAF, CloudFormation, GCP
 
-**Containers & Orchestration:** Kubernetes, Docker, ECS, Helm, HashiCorp Nomad
+**Infrastructure as Code:** Terraform, Helm, AWS CloudFormation
 
-**CI/CD:** GitHub Actions, GitLab CI, Jenkins, ArgoCD, Bitbucket Pipelines
+**Containers & Orchestration:** Kubernetes, Docker, ECS, Helm Charts
 
-**Infrastructure as Code:** Terraform, Ansible, Puppet, AWS CloudFormation, Helm Charts
+**CI/CD:** GitHub Actions, GitLab CI, Jenkins, ArgoCD
 
 **Observability:** Datadog, Prometheus, Grafana, New Relic, OpenTelemetry, Loki, PagerDuty, CloudWatch
 
 **Security:** AWS WAF, IAM, Okta, DevSecOps, SOC 2, SCPs, Security Governance
 
+**Messaging:** AWS SNS, AWS SQS
+
+**Databases:** AWS DynamoDB, RDS
+
 **Blockchain:** Ethereum/Geth, Hyperledger Besu, Tokenization, Digital Assets
 
-**Programming:** Python, Shell Script, TypeScript, Git
+**Programming:** Python, Shell Script, TypeScript, Go Templates, Git
 
 **Methodologies:** Agile, Scrum, Kanban, OKRs, SRE, Incident Management, GitOps
