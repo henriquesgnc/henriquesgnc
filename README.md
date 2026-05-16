@@ -23,39 +23,56 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ---
 
-## Tools & Technologies
+## Skills
 
-**Cloud:** AWS Organizations, IAM, ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, DynamoDB, SNS, KMS, GCP
+**AI / LLM**
 
-**Containers & Orchestration:** Kubernetes, Docker, ECS, EKS, Helm Charts
+AWS Bedrock (Agent, Action Group, Alias) · LLM-powered Fraud Investigation Bot · LLM-powered KPI Reporter · Prompt Engineering · GitHub Copilot Skills
 
-**Infrastructure as Code:** Terraform, AWS CloudFormation, Helm
+**Data Lake & Analytics**
 
-**CI/CD & GitOps:** GitHub Actions, GitHub Copilot, GitLab CI, ArgoCD
+Bronze/Silver ingestion architecture · AWS Glue (Data Catalog, Database, Table) · AWS Athena · Apache Superset · AWS Kinesis · Kinesis Firehose · AWS MSK (Kafka) · EventBridge · S3 Lifecycle & Replication · KMS
 
-**Observability:** Datadog, Prometheus, Grafana, New Relic, OpenTelemetry, Loki, PagerDuty, CloudWatch
+**Databases & Storage**
 
-**Security:** AWS WAF, IAM, Okta, Auth0, DevSecOps, SOC 2, SCPs, Security Governance, Fraud Monitoring, Auto-blocklist
+RDS · DynamoDB · S3 · Secrets Manager
 
-**Data & ML/AI:**
+**Containers & Orchestration**
 
-- **AI/LLM:** AWS Bedrock (Agent, Action Group, Agent Alias), LLM-powered Fraud Investigation Bot, LLM-powered KPI Reporter, GitHub Copilot Skills
-- **Data Lake:** Bronze/Silver ingestion architecture, AWS Glue (Catalog, Database, Table), AWS Athena, Apache Superset
-- **Streaming:** AWS Kinesis, Kinesis Firehose, MSK (Kafka), EventBridge
-- **Databases:** RDS, DynamoDB, Athena, Glue Data Catalog
-- **Storage:** S3 (Lifecycle, Versioning, Encryption, Replication), KMS
-- **Visualization:** Apache Superset, Grafana, Datadog Dashboards
-- **Data Transformation:** Python, Spark, AWS Lambda, AWS Glue
-- **Event-Driven:** EventBridge, SNS, SQS, Lambda
+Kubernetes · Docker · ECS · EKS · Helm Charts
 
-**APIs & Networking:** API Gateway (HTTP/REST), CloudFront, ALB/ELB, Route 53, VPC Peering, Client VPN, Nginx
+**Cloud Infrastructure**
 
-**Messaging & Events:** SNS, SQS, MSK, EventBridge, Banking Events, External Events
+AWS Organizations · IAM · ACM · Route 53 · VPC · EC2 · Lambda · CloudFront · CloudWatch · WAF · API Gateway · SSM · Client VPN · EBS · GCP
 
-**Integrations:** Salesforce, Slack, Auth0, Google Workspace
+**Infrastructure as Code**
 
-**Blockchain:** Ethereum/Geth, Hyperledger Besu, Tokenization, Digital Assets
+Terraform · AWS CloudFormation · Helm
 
-**Programming:** Python, TypeScript/JavaScript, Shell Script, Go Templates, Dockerfile
+**CI/CD & GitOps**
 
-**Methodologies:** Agile, Scrum, Kanban, OKRs, SRE, Incident Management, GitOps, Event-Driven Architecture
+GitHub Actions · GitHub Copilot · ArgoCD
+
+**Observability**
+
+Datadog · Prometheus · Grafana · New Relic · OpenTelemetry · Loki · PagerDuty
+
+**Security**
+
+Okta · Auth0 · DevSecOps · SOC 2 · SCPs · Fraud Monitoring · Auto-blocklist
+
+**Integrations**
+
+Salesforce · Slack · Google Workspace
+
+**Blockchain**
+
+Ethereum/Geth · Hyperledger Besu · Tokenization · Digital Assets
+
+**Programming**
+
+Python · TypeScript · Shell Script · Go Templates · Dockerfile
+
+**Methodologies**
+
+Agile · Scrum · Kanban · OKRs · SRE · Incident Management · GitOps · Event-Driven Architecture
