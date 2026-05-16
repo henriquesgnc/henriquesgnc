@@ -16,10 +16,6 @@ I build platforms that make engineering teams faster, safer, and more autonomous
 - **Security & Compliance** — SCP guardrails, OIDC federation, identity management, and least-privilege access patterns
 - **Team Leadership** — Platform and infrastructure team management in fintech environments
 
-### Certifications
-
-- AWS Certified Cloud Practitioner
-
 ### Selected Projects
 
 - **[Terraform AWS Organization Foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation)** — Production-ready Terraform blueprint for AWS Organizations: multi-account landing zones, SCP guardrails, IAM Identity Center, GitHub OIDC, and VPC networking baseline.
