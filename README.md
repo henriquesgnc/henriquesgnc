@@ -19,7 +19,6 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 ### Currently
 
 - Leading platform engineering at **VrdeBank**
-- Building **ESG Data Core** — sustainability intelligence platform for CSRD, ESRS, TCFD, GRI & SFDR compliance
 - Contributing to open-source tools for **AWS Organizations**, **Backstage (IDP)**, and **developer experience**
 
 ---
@@ -52,7 +51,6 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 | **Cloud Foundations** | Secure, multi-account AWS landing zones with Terraform |
 | **Developer Experience** | Software templates, CI/CD pipelines, and golden paths with Backstage and GitHub Actions |
 | **Security & Compliance** | SCP guardrails, OIDC federation, identity management, and least-privilege access patterns |
-| **Sustainability Tech** | ESG data platforms for CSRD/ESRS compliance — carbon accounting and audit-ready reporting |
 | **Team Leadership** | Platform and infrastructure team management in fintech environments |
 
 ---
@@ -65,12 +63,6 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 |---------|:-----:|-------------|
 | **[Terraform AWS Organization Foundation](https://github.com/henriquesgnc/terraform-aws-organization-foundation)** | — | Production-ready Terraform blueprint for AWS Organizations: multi-account landing zones, SCP guardrails, IAM Identity Center, GitHub OIDC, and VPC networking baseline |
 | **[Backstage Blueprint](https://github.com/henriquesgnc/backstage-blueprint)** | — | Internal Developer Portal blueprint with 7 production-ready software templates: Kubernetes, Helm, Docker, Lambda, Terraform, and TechDocs |
-
-### Sustainability & ESG
-
-| Project | Stars | Description |
-|---------|:-----:|-------------|
-| **[ESG Data Core](https://github.com/esg-data-core/website)** | — | Sustainability intelligence platform eliminating ESG data fragmentation. CIS (Corporate Impact Stewardship) manages CSRD, ESRS, TCFD, GRI & SFDR compliance with audit-ready evidence trails. Backed by Enterprise Ireland |
 
 ### Developer Tools
 
@@ -93,15 +85,14 @@ Engineering Leader with **15+ years** designing and operating **cloud platforms*
 
 ## Speaking & Writing
 
-- **Blog:** [ESG Data Core Insights](https://esgdatacore.com/blog/) — Guides on CSRD compliance, Scope 3 carbon accounting, and ESRS frameworks
 - **Open Source:** Regular contributor to Terraform and Backstage ecosystems
 
 ---
 
 <div align="center">
 
-*Currently leading platform engineering at VrdeBank and building ESG Data Core. Open to collaborations on cloud infrastructure, platform engineering, and sustainability tech.*
+*Currently leading platform engineering at VrdeBank. Open to collaborations on cloud infrastructure, platform engineering, and developer experience.*
 
-**[LinkedIn](https://www.linkedin.com/in/henriquesgnc/)** · **[X / Twitter](https://twitter.com/henriquesgnc)** · **[Email](mailto:henrique@esgdatacore.com)**
+**[LinkedIn](https://www.linkedin.com/in/henriquesgnc/)** · **[X / Twitter](https://twitter.com/henriquesgnc)**
 
 </div>
