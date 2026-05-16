@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesgnc/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/henriquesgnc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquesgnc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique@sloty.dev)
+[![Personal Email](https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesgnc@gmail.com)
+[![Consulting](https://img.shields.io/badge/Consulting-1a73e8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:henrique@hshtech.io)
 
 </div>
 
@@ -137,7 +138,8 @@ I am always interested in discussing:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesgnc/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique@sloty.dev)
+[![Personal Email](https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquesgnc@gmail.com)
+[![Consulting](https://img.shields.io/badge/Consulting_Email-1a73e8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:henrique@hshtech.io)
 
 </div>
 
