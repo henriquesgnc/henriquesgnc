@@ -25,7 +25,7 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 ## Tools & Technologies
 
-**Cloud:** AWS Organizations, IAM, ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, GCP
+**Cloud:** AWS Organizations, IAM, ACM, Route 53, VPC, EC2, EKS, ECS, Lambda, S3, CloudFront, CloudWatch, RDS, MSK, WAF, API Gateway, EventBridge, Secrets Manager, SSM, Client VPN, EBS, Athena, Glue, Kinesis, DynamoDB, SNS, KMS, GCP
 
 **Containers & Orchestration:** Kubernetes, Docker, ECS, EKS, Helm Charts
 
@@ -39,16 +39,18 @@ Engineering leader with 15+ years in IT and 8+ years building cloud platforms, i
 
 **Data & ML/AI:**
 
-- **Data Lake:** Bronze/Silver ingestion architecture, AWS Athena, AWS Glue, Apache Superset
-- **Streaming:** AWS MSK (Kafka), EventBridge, Kinesis
-- **Databases:** RDS, DynamoDB, Athena
-- **AI/LLM:** Fraud Investigation Bot, KPI Reporter (LLM-powered), GitHub Copilot Skills
-- **Data Transformation:** Python, Pandas, Spark
-- **Visualization:** Apache Superset, Grafana, Datadog
+- **AI/LLM:** AWS Bedrock (Agent, Action Group, Agent Alias), LLM-powered Fraud Investigation Bot, LLM-powered KPI Reporter, GitHub Copilot Skills
+- **Data Lake:** Bronze/Silver ingestion architecture, AWS Glue (Catalog, Database, Table), AWS Athena, Apache Superset
+- **Streaming:** AWS Kinesis, Kinesis Firehose, MSK (Kafka), EventBridge
+- **Databases:** RDS, DynamoDB, Athena, Glue Data Catalog
+- **Storage:** S3 (Lifecycle, Versioning, Encryption, Replication), KMS
+- **Visualization:** Apache Superset, Grafana, Datadog Dashboards
+- **Data Transformation:** Python, Spark, AWS Lambda, AWS Glue
+- **Event-Driven:** EventBridge, SNS, SQS, Lambda
+
+**APIs & Networking:** API Gateway (HTTP/REST), CloudFront, ALB/ELB, Route 53, VPC Peering, Client VPN, Nginx
 
 **Messaging & Events:** SNS, SQS, MSK, EventBridge, Banking Events, External Events
-
-**APIs & Networking:** API Gateway, CloudFront, ALB/ELB, Route 53, VPC Peering, Client VPN, Nginx
 
 **Integrations:** Salesforce, Slack, Auth0, Google Workspace
 
